@@ -54,7 +54,7 @@ featuring:
 - A context panel explaining the objective, key questions, and data source
   directly on the dashboard
 
-*(Dashboard screenshot / link to be added here.)*
+![Dashboard screenshot] (dashboard-screenshot.png)
 <img width="770" height="432" alt="Dashboard" src="https://github.com/user-attachments/assets/fe7911bd-be1a-44b0-bb54-e096a57dc2fd" />
 
 
