@@ -55,6 +55,8 @@ featuring:
   directly on the dashboard
 
 *(Dashboard screenshot / link to be added here.)*
+<img width="770" height="432" alt="Dashboard" src="https://github.com/user-attachments/assets/fe7911bd-be1a-44b0-bb54-e096a57dc2fd" />
+
 
 ## 6. Key Findings
 
